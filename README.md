@@ -4,4 +4,4 @@ Camera App with CameraX API Beta06 in Java
 
 Basic application with Zoom Slider and Camera Switch.
 
-![Screenshot_1595490097](https://user-images.githubusercontent.com/51813825/88263254-048c8700-ccca-11ea-9b43-1a508e80ad92.png)
+![cameraXbasic](https://user-images.githubusercontent.com/51813825/88263542-7c5ab180-ccca-11ea-9a0e-f8df6dc16a07.JPG)
